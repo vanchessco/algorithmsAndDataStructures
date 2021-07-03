@@ -1,2 +1,2 @@
 # algorithmsAndDataStructures
-algorithmsAndDataStructures
+Algorithms and data structures
